@@ -71,10 +71,9 @@ Me especializo en el desarrollo Full Stack utilizando **React y Node.js**, crean
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/api?user=KevinDGutierrez&theme=dark" height="180" />
+  <img src="https://streak-stats.demolab.com/api?user=KevinDGutierrez&theme=dark&hide_border=true" height="180" />
 </p>
-
 ---
-## Snake (contribuciones)
+## Snake
 
 ![snake animation](https://raw.githubusercontent.com/KevinDGutierrez/KevinDGutierrez/output/github-contribution-grid-snake.svg)
