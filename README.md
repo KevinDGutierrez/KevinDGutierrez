@@ -27,6 +27,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=18&amp;duration=2800&amp;pause=700&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+REST+APIs;UI%2FUX+%7C+Ciberseguridad+%7C+IA;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+(UMG)" />
 </p>
 
+<!-- HERO GIFs (Direct links) -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="360" alt="Hacker animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQybTEycDczMjJqZGJhaXlma203dHc5ODQxem5qNnE4cnJnb3BlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="360" alt="Coding animation" />
+</p>
+
 ---
 
 ## Sobre mí
@@ -127,7 +133,5 @@ Me especializo en el desarrollo Full Stack utilizando **React y Node.js**, crean
 ---
 
 ## Snake (contribuciones)
-
-> Nota: este link usa **raw.githubusercontent.com** (carga más estable que `blob`).
 
 ![snake animation](https://raw.githubusercontent.com/KevinDGutierrez/KevinDGutierrez/output/github-contribution-grid-snake.svg)
