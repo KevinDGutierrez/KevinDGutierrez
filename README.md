@@ -63,53 +63,6 @@ Me especializo en el desarrollo Full Stack utilizando **React y Node.js**, crean
 - Cisco **CCNA: Introduction to Networks**
 
 ---
-
-## Proyectos destacados
-
-> Links verificados desde mi portafolio (demo + repos cuando aplica).
-
-1) **Sen-IA — ChatBOT inteligente con IA conectado a CRM (Dolibarr)**
-- Demo: https://sencom-chatbot.vercel.app/
-- Tech: Dolibarr CRM • Node.js • Google Cloud • WhatsApp API • Web Chat • REST APIs • Gemini 1.5
-- Descripción: Asistente virtual con IA en tiempo real, integración con CRM, creación automática de tickets, notificaciones por correo y automatización comercial.
-
-2) **Banking System — Banca Virtual (Full Stack)**
-- Repo: https://github.com/KevinDGutierrez/Banking-System-Frontend.git
-- Demo: https://banking-system-frontend-beige.vercel.app/
-- Tech: React • Node.js • Express • MongoDB • JWT • REST APIs
-
-3) **Reproductor de GIFs con API**
-- Repo: https://github.com/KevinDGutierrez/gif-app-kgutierrez.git
-- Demo: https://gif-app-kgutierrez.vercel.app/
-- Tech: HTML • CSS • JavaScript • REST API
-
-4) **Marvel App — buscador + paginado**
-- Repo: https://github.com/KevinDGutierrez/MarvelApp-kgutierrez.git
-- Demo: https://marvel-app-kgutierrez.vercel.app/
-- Tech: HTML • CSS • JavaScript • Marvel API
-
-5) **Buscador de Pokémon con API**
-- Repo: https://github.com/KevinDGutierrez/PokemonApp-kgutierrez.git
-- Demo: https://pokemon-app-kgutierrez.vercel.app/
-- Tech: HTML • CSS • JavaScript • PokeAPI
-
-6) **Spotify App con API**
-- Repo: https://github.com/KevinDGutierrez/Spotify_kgutierrez-2023455.git
-- Demo: https://spotify-kgutierrez-2023455.vercel.app/
-- Tech: HTML • CSS • JavaScript • Spotify API
-
-7) **Gestor de Tareas (Frontend)**
-- Repo: https://github.com/KevinDGutierrez/Gestor-de-Tareas-ADASCHOOL.git
-- Demo: https://gestor-de-tareas-adaschool.vercel.app/
-- Tech: HTML • CSS • JavaScript • LocalStorage
-
-8) **Laboratorio 1 — Estilo propio**
-- Repo: https://github.com/KevinDGutierrez/PaginaLab1.git
-- Demo: https://pagina-lab1.vercel.app/
-- Tech: HTML • CSS • UI/UX
-
----
-
 ## Actividad (widgets)
 
 <p align="center">
@@ -118,20 +71,10 @@ Me especializo en el desarrollo Full Stack utilizando **React y Node.js**, crean
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinDGutierrez" height="180" />
+  <img src="https://streak-stats.demolab.com/api?user=KevinDGutierrez&theme=dark" height="180" />
 </p>
 
 ---
-
-## Contacto
-
-- Portafolio: https://portafolio-ashen-three.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/kevin-gutierrez-2804ab34b/
-- Email: kevindgutierrez161@gmail.com
-- Instagram: https://www.instagram.com/dani_gutierrez43/
-
----
-
 ## Snake (contribuciones)
 
 ![snake animation](https://raw.githubusercontent.com/KevinDGutierrez/KevinDGutierrez/output/github-contribution-grid-snake.svg)
